@@ -1,0 +1,45 @@
+header {
+    /*  sobrepõe as informações */
+    /* 100vw significa 100% da tela */
+    position: static;
+    width: 100vw;
+    height: 200 px;
+    background-color: rgba(0, 0, 0, 0.932);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.logo {
+    margin-left: 0px;
+    padding: 15px;
+    
+}
+
+.menu ul {
+    display: flex;
+    gap: 50px;
+
+
+}
+
+.menu ul li {
+    list-style: none;
+    
+
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    
+
+}
+

@@ -1,0 +1,31 @@
+.l1{
+    display:flex;
+    align-items: center;
+    
+    
+}
+
+.l2{
+    position:static;
+    width: 100vw;
+    height: 200 px;
+   color: rgb(0, 0, 0);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-left: 10 px;
+   
+
+}
+
+a{
+    border-radius: 10px;
+    
+    
+}
+
+.servicos_container{
+    padding-left: 8px;
+}
+
+
